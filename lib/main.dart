@@ -1,7 +1,3 @@
-//jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjlkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
-
-// teste
-
 import 'package:flutter/material.dart';
 
 void main() {
